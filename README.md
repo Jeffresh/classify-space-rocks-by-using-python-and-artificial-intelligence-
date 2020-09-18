@@ -41,3 +41,22 @@ Visit the [OSIRIS-REx website](https://www.asteroidmission.org/galleries/) to le
 
 In this module, you learned about different types of space rocks and the forms they can take. You also learned about the challenges of gathering spacerocks, and a solution to the problem.
 
+# Prepare to research space rocks by using artifical intelligence
+
+Learn about the scientifci research of space rocks and how artifical intelligence can enhance research.
+
+## Learning Objectives
+
+In this module, you will:
+
+- Get and introduction to artificial intelligence
+- Discover how humans classify objects
+- Discover how machines classify objects
+- Learn about artificial intelligence libraries
+- Install artificial intelligence libraries
+
+## Prerequisites
+
+- Ability to write and run introductory Pyhon programs
+- Visual Studio Code, a Python extension, and Jupyter Notebook installed.
+
