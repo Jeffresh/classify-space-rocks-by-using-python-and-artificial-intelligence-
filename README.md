@@ -45,6 +45,14 @@ In this module, you learned about different types of space rocks and the forms t
 
 Learn about the scientifci research of space rocks and how artifical intelligence can enhance research.
 
+## Introduction
+
+You're a geologist working for NASA. Your job is to let the astronauts know which rocks to pick up on their trip to the Moon.(You would go to the Moon to pick them out yourself, but you have a fear of heights). Because astronauts have many other things to learn, teaching them about different space rocks isn't practical. Instead, you deciee to create and artifical intelligence(AI) program that the astronauts can use to take a photo of a rock and find out what type of rock it is. Providing an AI program for astronauts helps ensure that you get enough samples of every type of rock you need.
+
+In this Microsoft Learn module, you'll learn what AI is, and you'll use some libraries that will help you create a program that classofies rocks. The final project uses Visual Studio Code, Python, and Jupyter Notebook to create and AI model that can identify the type of a rock in an image.
+
+The data is provided by NASA. Explore more interesting photos in NASA's [sample collecition](https://curator.jsc.nasa.gov/lunar/samplecatalog/index.cfm)
+
 ## Learning Objectives
 
 In this module, you will:
