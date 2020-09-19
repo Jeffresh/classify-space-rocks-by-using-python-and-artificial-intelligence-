@@ -119,8 +119,30 @@ Our brains subconsciously do all of these visual searches and categorization wit
 
 Next, we try to find the relationships between the features and the type of rock is hown in a photo of a rock.
 
-In this step, our brain tries to separate or collate the characteristics and features of each type of rocl. Because of the associations we make, we come up with some rules. For example, we determine that lighter rocks usually are higland rocks and that the texture of basalt rocks is more jagged.
+In this step, our brain tries to separate or collate the characteristics and features of each type of rock. Because of the associations we make, we come up with some rules. For example, we determine that lighter rocks usually are higland rocks and that the texture of basalt rocks is more jagged.
 
 ### Step 3
 
 Last, we try to use these relationships between known items to determine how to classify a new item. Given a new rock iamge to consider, our brains extract tis characteristics. Then, our brain uses the associations we already made to determine what type of rock it is.
+
+## Classify space rocks like a machine by using AI
+
+The job of the AI scientist in creating an AI model is to teach the computer to complete three steps. Let's walk through the three steps in the example of training a computer to predict types of rocks in random photos of rocks.
+
+### Step 0
+
+A preparatory step is to import image data and the libraries that help process them on the computer you're training. The computer transforms the images to matrixes of number so that the images are in a format the computer can read.
+
+### Step 1
+
+In photos of rocks that we'll examine, the computer extracts features like texture, size, color, and edges. Scientist use intuition and experience tho choose which features to use.
+
+### Step 2
+
+The computer makes associations between image features and types of rock. Computers can be better than humans at the task of detecting minute details because there are so many associations to make.
+
+The computer builds a network that's capable of keeping track of millions of associations.
+
+### Step 3
+
+Given a new photo of a rock, the computer extracts features in the photo, and then uses associations between existing data and the new photo to predict the type of rock it is.
