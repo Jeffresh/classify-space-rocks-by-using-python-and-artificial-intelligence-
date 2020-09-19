@@ -68,7 +68,7 @@ In this module, you will:
 - Ability to write and run introductory Pyhon programs
 - Visual Studio Code, a Python extension, and Jupyter Notebook installed.
 
-# The role of AI in research into space rocks
+## The role of AI in research into space rocks
 
 AI is afiarly new but prominent concentration in the field of computer science, and more specifically, data science. The main concept of AI is teaching a computer how to learn thins. The compjter then makes decisions based on what it has learned things. The computer then makes decisions based on what it has learned.
 
@@ -78,3 +78,16 @@ AI works by giving many different pieces of data to a computer, and then telling
 
 Finally, you might see the terms *machine learning* and *artificial intelligence* used almost interchangeably. The main difference between the two is that machine learning is a type of AI. They are similar, but in this module we focus on AI.
 
+## Different types of space rock that are used for research
+
+Before we learn the details of how AI can be used to classify rocks, let's start by learning about the different types of rocks that we'll be working with. And, we'll see how well you do at classifying rocks.
+
+## Types of rocks
+
+In this lesson, we'll classify photos of rocks into one of two types: basalt and higland (also known as crustal). These rock types also are found on Erath, but for this lesson, we are looking only at the lunar variants: that is rocks that are from the Moon.
+
+Basalt is a dark rock that comes from ancient volcanic eruptions on the Earth's Moon. When you look up at the Moon and see dark spots and patches, you likely are seeing basalt rock on the Moon's surface. Nearly 17% of the near side of the Moon is basalt; only 2% of the far side is basalt. Only 2% of the far side is basalt. Most basalt in either of the Moon's hemispheres is found in basins or large craters.
+
+Higland rock is lighter than basalt because basalt is made of heavier elements, like iron and magnesium. Higland rock was made when a large magma ocean, which covered the entire Moon as it formed, crystallized. Higland rock is lighter, so it floated to the top of the ocean adn became the crust of the Moon.
+
+It's very  hard to classify this rocks because it looks both like highland and basalt rock. Computers are great at finding the smaller details that the human eye can miss. This is how artificial intelligence can assist us.
