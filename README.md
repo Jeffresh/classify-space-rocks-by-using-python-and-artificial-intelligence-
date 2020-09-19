@@ -207,3 +207,16 @@ Congratulations, you installed all the libraries you need to make an AI program,
 ## Summary
 
 In this module, you learned what AI is and some ways that we use AI in day-to-day life. You considered how humans classify objects and how machines classify objects. You also learned about different AI libraries, downloaded them yo your computer, and installed them in preparation for building and AI model.
+
+# Analyze images of rocks by using artifical intelligence
+
+Identify data to add to an artificial intelligence module that classifies space rocks in random photos.
+
+## Learning Objectives
+
+in this modul, you will:
+
+- Import artificial intelligence libraries
+- Learn how to import data
+- Learn how to clean and separate data
+- Show the data you imported
