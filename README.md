@@ -68,3 +68,13 @@ In this module, you will:
 - Ability to write and run introductory Pyhon programs
 - Visual Studio Code, a Python extension, and Jupyter Notebook installed.
 
+# The role of AI in research into space rocks
+
+AI is afiarly new but prominent concentration in the field of computer science, and more specifically, data science. The main concept of AI is teaching a computer how to learn thins. The compjter then makes decisions based on what it has learned things. The computer then makes decisions based on what it has learned.
+
+Although you might think that teaching computers hwo to "think" on their own would lead to extinction for the human race, computers need humans to program them. We don't need to worry that computer might take over the world, but we can benefit from programming computers to make decisions. AI is what Netflix uses to recommend what to watch next. AI helps Siri better detect our phone use habits. Tesla uses AI to build driverless cars.
+
+AI works by giving many different pieces of data to a computer, and then telling the computer what that data represents. WE'll give a computer different images of space rocks and tell the computer what type of rock is in each image. For example, we'll upload a photo of basalt rock to our computer and tell the computer that the photo isa photo of basalt rock. This process is the first step of building and AI mode. You use a model to make predictions. After we show the computer a large number of images and create a model based on that data, we can give the computer a new photo that doesn't have a label, and the computer should be able to tell us what type of rock it is.
+
+Finally, you might see the terms *machine learning* and *artificial intelligence* used almost interchangeably. The main difference between the two is that machine learning is a type of AI. They are similar, but in this module we focus on AI.
+
