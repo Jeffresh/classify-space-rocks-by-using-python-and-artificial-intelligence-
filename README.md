@@ -91,3 +91,36 @@ Basalt is a dark rock that comes from ancient volcanic eruptions on the Earth's 
 Higland rock is lighter than basalt because basalt is made of heavier elements, like iron and magnesium. Higland rock was made when a large magma ocean, which covered the entire Moon as it formed, crystallized. Higland rock is lighter, so it floated to the top of the ocean adn became the crust of the Moon.
 
 It's very  hard to classify this rocks because it looks both like highland and basalt rock. Computers are great at finding the smaller details that the human eye can miss. This is how artificial intelligence can assist us.
+
+## Classify space rocks like a human
+
+Before we build and AI system to detect the rock types, let's consider how humans classify things.
+
+Out thought process usually goes something like this:
+
+### Step 0
+
+We want to collect as many rock images as possible. Having a large number of images helps us see a large number of variations in the items we're trying to classify. Fortunately, in this project, we can choose from a large number of relevant images online.
+
+### Step 1
+
+First, our brain tries to extract patterns from each image. The patterns include the following factors:
+
+- Color combinations
+- Sharp edges
+- Circular patterns
+- Texture in the rock's surface
+- The size of the rock
+- The size and shape of minerals in the rock
+
+Our brains subconsciously do all of these visual searches and categorization without our notice. In AI, we refer to these factors as *features*.
+
+### Step 2
+
+Next, we try to find the relationships between the features and the type of rock is hown in a photo of a rock.
+
+In this step, our brain tries to separate or collate the characteristics and features of each type of rocl. Because of the associations we make, we come up with some rules. For example, we determine that lighter rocks usually are higland rocks and that the texture of basalt rocks is more jagged.
+
+### Step 3
+
+Last, we try to use these relationships between known items to determine how to classify a new item. Given a new rock iamge to consider, our brains extract tis characteristics. Then, our brain uses the associations we already made to determine what type of rock it is.
