@@ -203,3 +203,7 @@ You now have an environment that can take you through the rest of the learning p
 Next, open Visual Studio Code. Open the new folder that you created. Create a new Jupyter Notebook file and name it something like *ClassifySpaceRockProgram*. Last, at the upper-right and lower-left coerner of the file, change the environment to the new Anaconda environment you created.
 
 Congratulations, you installed all the libraries you need to make an AI program, and configured Visual Studio Code to find them.
+
+## Summary
+
+In this module, you learned what AI is and some ways that we use AI in day-to-day life. You considered how humans classify objects and how machines classify objects. You also learned about different AI libraries, downloaded them yo your computer, and installed them in preparation for building and AI model.
