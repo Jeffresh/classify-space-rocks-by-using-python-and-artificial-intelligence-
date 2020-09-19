@@ -146,3 +146,19 @@ The computer builds a network that's capable of keeping track of millions of ass
 ### Step 3
 
 Given a new photo of a rock, the computer extracts features in the photo, and then uses associations between existing data and the new photo to predict the type of rock it is.
+
+## Common Python libraries that are useful in AI projects
+
+As we complete the learning path, we'll be using the following libraries. The libraries are free, and they are comonly used in real-life AI projects. these libraries are just a few of the many librareis you can use to create and AI model. To learn about other common AI librareis and what they do, see [Top 8 Python librareis for ML and AI](https://hackernoon.com/top-8-python-libraries-for-machine-learning-and-artificial-intelligence-y08id3031)
+
+### Matplotlib
+
+Matplotlib primarly is used to visualize data in Python. You can use Matplotlib to create static, animated, and interactive visualizations in Python. Matplotlib is useful for displayin your data in a more visual way.
+
+### NumPy
+
+NumPy, short for *Numerical Python*, is a popular library that's used to roganize and store data in Python. You can use NumPy to create structrues that hold sets of data called arays. Like lists, arrays store many types of data. NumPy has many functions that are helpful for manipulation data in arrays.
+
+### PyTorch
+
+PyTorch, a machine learning library, has many built-on functions to help accelerate building projects. PyTorch primarily is used to modify data in an existing machine learning program.
