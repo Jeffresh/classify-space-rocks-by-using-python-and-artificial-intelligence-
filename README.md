@@ -247,3 +247,26 @@ In this module, you will:
 In this module, you learned how to import data and images and how computers read images. You also learned how to get a set of
 data ready to train an AI model by cleaning and separating it into training and testing groups. In the last unit, we used Python
 code to show the images in our data set.
+
+# Classify types of space rocks in random photos by using AI
+
+## Introduction
+
+Now that you have all of your data imported and modified to your liking, you can begin to create and train an artificial intelligence (AI) model. The libraries you imported will do a lot of the heavy work for you, but you still have to tell the computer how to train your model so that it can make predictions.
+
+In this Microsoft Learn module, you'll use Visual Studio Code, Python, and Jupyter Notebook to create and AI model that can
+identify the type of a rock in an image.
+
+## Learning objectives
+
+In this moduel, you will:
+
+- Learn what neural networks are
+- Train and AI model
+- Test the model by having it classify various space rocks
+
+## Prerequisites
+
+- Ability to write and run introductory Python programs
+- Visual Studio Code, a Python extension, and Jupyter NOtebook installed
+- AI libraries installed
