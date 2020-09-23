@@ -284,3 +284,7 @@ To extract features from imaages, we multiply images by filters. Each filter is 
 In the following photo, you can see how we slide a filter over and image to extract features like edges, curves, and the texture of a rock.
 
 We'll use 32 filter for our rock classification example, but many more filters are available.
+
+## Summary
+
+In this module, you build and AI model that detects different types of space rocks. You assessed the accuracy of the model and put it to the test trying to precit what types of rocks were shown in random photos.
